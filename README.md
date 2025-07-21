@@ -46,7 +46,6 @@ flutter run
 If you're new to Flutter:
 - [Flutter Codelabs](https://docs.flutter.dev/get-started/codelab)
 - [Riverpod Docs](https://riverpod.dev/)
-- [Flutter Cookbook](https://docs.flutter.dev/cookbook)
 
 ## 🙌 Contribution
 Pull requests are welcome! Feel free to open issues or suggest features.
