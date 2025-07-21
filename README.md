@@ -1,16 +1,35 @@
-# tiktokclone
+TikTokPro
+A mobile application developed using Flutter, following Clean Architecture principles and utilizing Riverpod for state management.
 
-A new Flutter project.
+Product Video
 
-## Getting Started
+Features
+Modern mobile app built with Flutter
+Follows Clean Architecture for scalability and maintainability
+State management powered by Riverpod
 
-This project is a starting point for a Flutter application.
+Demo
+Check out the product in action on YouTube : https://youtube.com/shorts/IWAb8h4oJt4
 
-A few resources to get you started if this is your first Flutter project:
+Getting Started
+Clone the repository:
+sh
+git clone https://github.com/tuandda98/tiktokpro.git
+cd tiktokpro
+Install dependencies:
+sh
+flutter pub get
+Run the app:
+sh
+flutter run
+Architecture
+This project follows the Clean Architecture pattern for clear separation of concerns and scalability. State management is handled using Riverpod.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Contributing
+Contributions are welcome! Please open an issue or submit a pull request for improvements.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Contact
+For inquiries or feedback, please create an issue or contact tuandda98.
+
+Let me know if you want to include more details or make any changes!
+
