@@ -1,35 +1,56 @@
-TikTokPro
-A mobile application developed using Flutter, following Clean Architecture principles and utilizing Riverpod for state management.
+# TikTok Clone – Flutter App 🎥
 
-Product Video
+A TikTok-style movie app built with **Flutter**, using **Riverpod** for state management and following **Clean Architecture** principles.
 
-Features
-Modern mobile app built with Flutter
-Follows Clean Architecture for scalability and maintainability
-State management powered by Riverpod
+![Flutter](https://img.shields.io/badge/Flutter-v3.0-blue)
+![Riverpod](https://img.shields.io/badge/Riverpod-State_Management-green)
 
-Demo
-Check out the product in action on YouTube : https://youtube.com/shorts/IWAb8h4oJt4
+## ✨ Features
+- 🎬 Movie listing UI inspired by TikTok
+- 📱 Responsive layout for mobile
+- ⚙️ State management using Riverpod
+- 📂 Clean Architecture with feature separation
+- 🚀 Smooth scroll & video-like page transitions
 
-Getting Started
-Clone the repository:
-sh
-git clone https://github.com/tuandda98/tiktokpro.git
-cd tiktokpro
+## 📸 Screenshots via youtube
+https://youtube.com/shorts/IWAb8h4oJt4
+
+## 🔧 Tech Stack
+- Flutter
+- Dart
+- Riverpod
+- Clean Architecture
+- Custom UI components
+
+## 📦 Getting Started
+
+Clone this repo:
+```bash
+git clone https://github.com/tuandda98/tiktokclone.git
+cd tiktokclone
+```
+
 Install dependencies:
-sh
+```bash
 flutter pub get
+```
+
 Run the app:
-sh
+```bash
 flutter run
-Architecture
-This project follows the Clean Architecture pattern for clear separation of concerns and scalability. State management is handled using Riverpod.
+```
 
-Contributing
-Contributions are welcome! Please open an issue or submit a pull request for improvements.
+> Make sure Flutter is correctly installed. [Get Flutter](https://docs.flutter.dev/get-started/install)
 
-Contact
-For inquiries or feedback, please create an issue or contact tuandda98.
+## 📚 Resources
+If you're new to Flutter:
+- [Flutter Codelabs](https://docs.flutter.dev/get-started/codelab)
+- [Riverpod Docs](https://riverpod.dev/)
+- [Flutter Cookbook](https://docs.flutter.dev/cookbook)
 
-Let me know if you want to include more details or make any changes!
+## 🙌 Contribution
+Pull requests are welcome! Feel free to open issues or suggest features.
 
+---
+
+Built with ❤️ by [tuandda98](https://github.com/tuandda98)
